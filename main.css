@@ -1,0 +1,19 @@
+.bg-lt {
+    background: #e4e4e4;
+}
+
+.fs-20px {
+    font-size: 20px;
+}
+
+.dflex-ccenter-acenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-thumb {
+    border-radius: 50%; 
+    height: 30px; 
+    width: 30px; 
+}
